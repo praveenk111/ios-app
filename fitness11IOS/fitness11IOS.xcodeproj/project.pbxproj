@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		CC91DB6727750C8B00E8EF9E /* AboutUs.swift in Sources */ = {isa = PBXBuildFile; fileRef = CC91DB6627750C8B00E8EF9E /* AboutUs.swift */; };
 		E5D054E52774F81E00F403B5 /* fitness11IOSApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5D054E42774F81E00F403B5 /* fitness11IOSApp.swift */; };
 		E5D054E72774F81E00F403B5 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E5D054E62774F81E00F403B5 /* ContentView.swift */; };
 		E5D054E92774F81E00F403B5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E5D054E82774F81E00F403B5 /* Assets.xcassets */; };
@@ -19,6 +20,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		CC91DB6627750C8B00E8EF9E /* AboutUs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AboutUs.swift; sourceTree = "<group>"; };
 		E5D054E12774F81E00F403B5 /* fitness11IOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = fitness11IOS.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E5D054E42774F81E00F403B5 /* fitness11IOSApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = fitness11IOSApp.swift; sourceTree = "<group>"; };
 		E5D054E62774F81E00F403B5 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -70,6 +72,7 @@
 				E5D054F82774FE8C00F403B5 /* SignUpPage.swift */,
 				E5D054FA2774FEB900F403B5 /* ListofExercise.swift */,
 				E5D054FC2774FEDE00F403B5 /* HomePage.swift */,
+				CC91DB6627750C8B00E8EF9E /* AboutUs.swift */,
 			);
 			path = fitness11IOS;
 			sourceTree = "<group>";
@@ -155,6 +158,7 @@
 				E5D054FB2774FEB900F403B5 /* ListofExercise.swift in Sources */,
 				E5D054E72774F81E00F403B5 /* ContentView.swift in Sources */,
 				E5D054F92774FE8C00F403B5 /* SignUpPage.swift in Sources */,
+				CC91DB6727750C8B00E8EF9E /* AboutUs.swift in Sources */,
 				E5D054E52774F81E00F403B5 /* fitness11IOSApp.swift in Sources */,
 				E5D054F52774FE3500F403B5 /* SignInPage.swift in Sources */,
 				E5D054FD2774FEDE00F403B5 /* HomePage.swift in Sources */,
