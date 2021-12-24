@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		97217480277566B300986403 /* findCoach.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9721747F277566B300986403 /* findCoach.swift */; };
 		976EDC0A27751529005454C6 /* sendEmail.swift in Sources */ = {isa = PBXBuildFile; fileRef = 976EDC0927751529005454C6 /* sendEmail.swift */; };
 		CC91DB6727750C8B00E8EF9E /* AboutUs.swift in Sources */ = {isa = PBXBuildFile; fileRef = CC91DB6627750C8B00E8EF9E /* AboutUs.swift */; };
 		CCCD1AE227755AB100907F62 /* bmi_UI.swift in Sources */ = {isa = PBXBuildFile; fileRef = CCCD1AE127755AB100907F62 /* bmi_UI.swift */; };
@@ -22,6 +23,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		9721747F277566B300986403 /* findCoach.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = findCoach.swift; sourceTree = "<group>"; };
 		976EDC0927751529005454C6 /* sendEmail.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = sendEmail.swift; sourceTree = "<group>"; };
 		CC91DB6627750C8B00E8EF9E /* AboutUs.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AboutUs.swift; sourceTree = "<group>"; };
 		CCCD1AE127755AB100907F62 /* bmi_UI.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = bmi_UI.swift; sourceTree = "<group>"; };
@@ -79,6 +81,7 @@
 				CC91DB6627750C8B00E8EF9E /* AboutUs.swift */,
 				976EDC0927751529005454C6 /* sendEmail.swift */,
 				CCCD1AE127755AB100907F62 /* bmi_UI.swift */,
+				9721747F277566B300986403 /* findCoach.swift */,
 			);
 			path = fitness11IOS;
 			sourceTree = "<group>";
@@ -165,6 +168,7 @@
 				E5D054E72774F81E00F403B5 /* ContentView.swift in Sources */,
 				E5D054F92774FE8C00F403B5 /* SignUpPage.swift in Sources */,
 				976EDC0A27751529005454C6 /* sendEmail.swift in Sources */,
+				97217480277566B300986403 /* findCoach.swift in Sources */,
 				CCCD1AE227755AB100907F62 /* bmi_UI.swift in Sources */,
 				CC91DB6727750C8B00E8EF9E /* AboutUs.swift in Sources */,
 				E5D054E52774F81E00F403B5 /* fitness11IOSApp.swift in Sources */,

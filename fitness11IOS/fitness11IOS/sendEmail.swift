@@ -2,7 +2,7 @@
 //  sendEmail.swift
 //  fitness11IOS
 //
-//  Created by Navtej Singh on 2021-12-23.
+//  Created by Manpreet Kaur on 2021-12-23.
 //
 
 import SwiftUI
