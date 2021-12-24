@@ -22,7 +22,7 @@ struct AboutUs: View {
                ScrollView(.horizontal, showsIndicators: false, content:{
                    HStack{
                        VStack{
-                           Image("nature")
+                           Image("Jot")
                                .resizable()
                                .clipShape(Circle())
                                .frame(width:120, height: 120)
@@ -38,7 +38,7 @@ struct AboutUs: View {
                                .padding()
                        }
                        VStack{
-                           Image("nature")
+                           Image("img (1)")
                                .resizable()
                                .clipShape(Circle())
                                .frame(width:120, height: 120)
@@ -54,7 +54,7 @@ struct AboutUs: View {
                                .padding()
                        }
                        VStack{
-                           Image("nature")
+                           Image("img (2)")
                                .resizable()
                                .clipShape(Circle())
                                .frame(width:120, height: 120)
@@ -70,7 +70,7 @@ struct AboutUs: View {
                                .padding()
                        }
                        VStack{
-                           Image("nature")
+                           Image("jot8")
                                .resizable()
                                .clipShape(Circle())
                                .frame(width:120, height: 120)
